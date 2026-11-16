@@ -4,8 +4,6 @@ A dependency-free Go library and CLI that renders a basic animated horizontal ba
 
 ## Install
 
-After this repository is published and tagged:
-
 ```sh
 go get github.com/YananLee/livelychart-svg-go@v0.1.0
 ```
